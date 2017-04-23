@@ -1,0 +1,58 @@
+name: persostaff
+main: me.clearrelic24.crplugins.crplugins
+version: 1.0.1
+description: CR24 STUDIO 
+author: CR24Studio
+commands:
+   boss:
+     description: List of the Boss
+     aliases: [boss]
+     permission: persostaff.boss
+   admin:
+     description: List of the admin
+     aliases: [admin]
+     permission: persostaff.admin
+   modo:
+     description: List of the modo
+     aliases: [modo]
+     permission: persostaff.modo
+   guide:
+     description: List of the Boss
+     aliases: [guide]
+     permission: persostaff.guide    
+   helper:
+     description: List of the helper
+     aliases: [helper]
+     permission: persostaff.helper
+   fondateur:
+     description: List of the Boss
+     aliases: [fondateur]
+     permission: persostaff.fonda
+   owner:
+     description: List of the Boss
+     aliases: [owner]
+     permission: persostaff.owner
+   operateur:
+     description: List of the Boss
+     aliases: [operateur]
+     permission: persostaff.operateur      
+   vip:
+     description: List of the Boss
+     aliases: [vip]
+     permission: persostaff.vip     
+   youtuber:
+     description: List of the Boss
+     aliases: [youtuber]
+     permission: persostaff.youtuber     
+   dev:
+     description: List of the Boss
+     aliases: [dev]
+     permission: persostaff.dev     
+   archi:
+     description: List of the Boss
+     aliases: [archi]
+     permission: persostaff.archi     
+   builder:
+     description: List of the Boss
+     aliases: [builder]
+     permission: persostaff.builder
